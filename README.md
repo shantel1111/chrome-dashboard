@@ -4,10 +4,10 @@ A personalized Chrome extension that displays dynamic backgrounds, live weather,
 ---
 
 ## ✨ Features
-- 🔹 Random landscape images from Unsplash as the background
-- 🔹 Attribution for the image author
-- 🔹 Live clock displaying the current time
-- 🔹 Current weather information based on geolocation 
+- 🌄 Random landscape images from Unsplash as the background
+- 🖋️ Attribution for the image author
+- 🕰️ Live clock displaying the current time
+- ☀️🌧️ Current weather information based on geolocation
 
 ---
 
