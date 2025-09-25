@@ -1,5 +1,5 @@
-# 📌 Project Title
-A personalized dashboard that combines dynamic background images, real-time weather updates, and a live clock. Designed to give users an aesthetic and informative start to their day.
+# 📌 Project Dashboard
+A personalized Chrome extension that displays dynamic backgrounds, live weather, and a clock, giving users an aesthetic and informative new tab experience.
 
 ---
 
@@ -14,14 +14,16 @@ A personalized dashboard that combines dynamic background images, real-time weat
 ## 🛠️ Tech Stack
 - Language / Framework: JavaScript, HTML, CSS
 - APIs / Tools: Unsplash API, OpenWeatherMap API
+- Chrome Extension: Manifest v3
 
 ---
 
 ## 🕹️ How to Use
-1. Open the app in a web browser
-2. The background will automatically load a random landscape image
-3. Current time will update live every second
-4. Weather information will display automatically based on your location
+1. Clone or download the repo
+2. Open Chrome and go to chrome://extensions/
+3. Enable “Developer mode” (top right)
+4. Click “Load unpacked” and select the project folder
+5. Open a new tab to see your dashboard
 
 ---
 
