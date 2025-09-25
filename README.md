@@ -36,7 +36,7 @@ open index.html   # or double-click the file in your system
 
 ---
 
-##💡 Future Improvements
+## 💡 Future Improvements
 - Add a functional to-do list with local storage
 - Allow users to save favorite background images
 - Display motivational quotes or fun facts daily
