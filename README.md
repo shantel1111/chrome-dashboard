@@ -1,41 +1,47 @@
 # 📌 Project Title
-
-One or two sentences describing the project:  
-What it does, what problem it solves, or why it’s interesting.  
+A personalized dashboard that combines dynamic background images, real-time weather updates, and a live clock. Designed to give users an aesthetic and informative start to their day.
 
 ---
 
 ## ✨ Features
-- 🔹 Feature 1  
-- 🔹 Feature 2  
-- 🔹 Feature 3  
-- 🔹 (Add/remove as needed)  
+- 🔹 Random landscape images from Unsplash as the background
+- 🔹 Attribution for the image author
+- 🔹 Live clock displaying the current time
+- 🔹 Current weather information based on geolocation 
 
 ---
 
 ## 🛠️ Tech Stack
-- Language / Framework (e.g., React, Python, Node.js)  
-- Libraries / Tools used (list them here)  
+- Language / Framework: JavaScript, HTML, CSS
+- APIs / Tools: Unsplash API, OpenWeatherMap API
 
 ---
 
 ## 🕹️ How to Use
-1. Step 1 (e.g., *Open the app*)  
-2. Step 2 (e.g., *Click a button / enter input*)  
-3. Step 3 (what the user can expect)  
+1. Open the app in a web browser
+2. The background will automatically load a random landscape image
+3. Current time will update live every second
+4. Weather information will display automatically based on your location
 
 ---
 
 ## 📦 Installation
-```bash
 # Clone the repo
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/shantel1111/project-dashboard.git
 
 # Go into the project folder
-cd project-name
+cd project-dashboard
 
-# Install dependencies
-npm install   # or pip install -r requirements.txt
+# Open the app (no dependencies needed)
+open index.html   # or double-click the file in your system
 
-# Start the project
-npm start     # or python main.py
+---
+
+💡 Future Improvements
+- Add a functional to-do list with local storage
+- Allow users to save favorite background images
+- Display motivational quotes or fun facts daily
+- Theme switcher (dark/light mode)
+- Include a mini calendar or events section
+- Weather forecast for upcoming days
+- Option to change background based on time of day
