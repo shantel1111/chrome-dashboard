@@ -28,13 +28,10 @@ A personalized Chrome extension that displays dynamic backgrounds, live weather,
 ---
 
 ## 📦 Installation
-# Clone the repo
 git clone https://github.com/shantel1111/project-dashboard.git
 
-# Go into the project folder
 cd project-dashboard
 
-# Open the app (no dependencies needed)
 open index.html   # or double-click the file in your system
 
 ---
