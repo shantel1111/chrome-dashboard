@@ -24,16 +24,7 @@ A personalized Chrome extension that displays dynamic backgrounds, live weather,
 3. Enable “Developer mode” (top right)
 4. Click “Load unpacked” and select the project folder
 5. Open a new tab to see your dashboard
-
----
-
-## 📦 Installation
-git clone https://github.com/shantel1111/project-dashboard.git
-
-cd project-dashboard
-
-open index.html   # or double-click the file in your system
-
+ 
 ---
 
 ## 💡 Future Improvements
@@ -44,3 +35,11 @@ open index.html   # or double-click the file in your system
 - Include a mini calendar or events section
 - Weather forecast for upcoming days
 - Option to change background based on time of day
+  
+---
+
+## 📦 Installation
+```bash
+git clone https://github.com/shantel1111/project-dashboard.git
+cd project-dashboard
+open index.html   # or double-click the file in your system
